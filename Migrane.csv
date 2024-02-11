@@ -1,0 +1,401 @@
+Age,Duration,Frequency,Location,Character,Intensity,Nausea,Vomit,Phonophobia,Photophobia,Visual,Sensory,Dysphasia,Dysarthria,Vertigo,Tinnitus,Hypoacusis,Diplopia,Defect,Ataxia,Conscience,Paresthesia,DPF,Gender,Type
+31,2,5,North,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Migraine without aura
+30,1,5,North,1,3,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+41,2,3,North,1,2,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+17,3,1,North,1,3,1,0,1,1,3,0,0,0,1,0,0,0,0,0,0,0,1,Male,Familial hemiplegic migraine
+48,2,2,North,1,3,1,0,1,1,2,0,0,0,,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+21,1,2,North,1,2,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+16,3,2,North,1,2,1,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,,Typical aura with migraine
+22,3,6,North,1,3,1,1,1,1,0,0,0,0,0,0,,,0,0,0,0,0,Male,Migraine without aura
+77,1,1,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+17,1,3,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+37,1,5,North,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,Migraine without aura
+38,1,5,North,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Migraine without aura
+35,1,1,North,1,2,1,1,1,1,2,1,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+21,1,1,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+27,1,3,North,1,3,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+33,1,5,North,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Migraine without aura
+29,1,1,North,1,2,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+24,1,1,,1,2,1,0,1,1,2,2,0,0,1,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+20,3,1,West,2,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Other
+35,3,1,North,1,3,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+15,1,1,North,1,2,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,Male,Familial hemiplegic migraine
+46,1,5,North,1,3,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,Migraine without aura
+29,1,3,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,,0,0,0,0,Male,Typical aura with migraine
+18,2,5,North,1,3,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+48,3,3,North,1,2,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+36,3,1,North,1,3,1,0,1,1,2,0,0,0,1,0,0,1,1,0,0,0,1,Female,Basilar-type aura
+40,2,2,North,1,3,1,0,1,1,3,0,0,0,0,1,0,0,0,0,1,0,1,Female,Basilar-type aura
+51,3,1,North,1,3,1,0,1,1,2,1,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+48,1,2,North,1,3,1,1,1,1,3,2,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+30,1,2,South,0,0,1,0,1,1,3,2,0,0,0,0,,,0,0,0,0,0,Female,Typical aura without migraine
+26,1,2,North,1,3,1,0,1,1,2,1,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+31,1,1,North,1,3,1,1,1,1,1,0,0,0,0,,0,0,0,0,,0,1,Male,Typical aura with migraine
+25,3,1,,1,2,1,1,1,1,2,1,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+21,2,1,North,1,3,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,Female,Typical aura with migraine
+67,3,5,North,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Migraine without aura
+17,1,2,North,1,3,1,0,1,1,1,0,0,0,0,,0,0,0,0,,0,0,Female,Typical aura with migraine
+25,2,5,South,0,0,1,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura without migraine
+39,3,2,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+21,1,5,South,0,0,1,0,1,1,3,2,0,0,1,0,0,0,0,0,0,0,1,Male,Typical aura without migraine
+36,1,2,North,1,3,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+35,1,6,North,1,3,1,0,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Migraine without aura
+40,1,5,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+19,1,1,North,1,3,1,0,1,1,1,0,1,0,0,1,0,0,0,0,1,0,1,Male,Familial hemiplegic migraine
+35,2,5,North,1,3,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Migraine without aura
+27,1,5,North,1,2,1,0,1,1,2,1,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+23,1,1,North,2,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Other
+28,1,1,West,2,3,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Female,Other
+41,1,5,North,1,3,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Migraine without aura
+38,3,5,North,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,Migraine without aura
+35,1,3,North,1,3,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,Migraine without aura
+43,1,4,North,1,2,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+50,1,1,North,1,3,1,0,1,1,1,1,0,0,,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+21,1,1,,1,2,1,1,1,1,2,2,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+25,3,7,North,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,Migraine without aura
+34,1,1,South,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura without migraine
+25,3,2,North,1,3,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Migraine without aura
+50,1,5,North,1,2,1,0,1,1,1,1,,,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+17,2,2,,1,3,1,0,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+46,1,1,North,1,3,1,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+20,1,4,West,2,3,1,1,1,1,1,2,0,0,1,1,0,0,0,0,0,0,1,Male,Other
+40,3,1,North,2,3,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,1,Male,Other
+15,1,1,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+46,1,5,North,1,3,1,1,1,,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Migraine without aura
+48,1,2,West,1,3,1,1,1,1,3,2,0,0,0,0,0,0,0,0,0,0,0,Female,Other
+23,2,2,North,1,3,1,0,1,1,1,0,0,0,1,1,0,0,0,0,0,0,1,Female,Familial hemiplegic migraine
+51,1,3,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+36,1,1,North,1,3,1,0,1,1,2,,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+20,3,8,North,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Migraine without aura
+40,3,1,,1,3,0,0,1,0,3,0,0,0,1,0,0,0,0,0,0,0,1,Female,Other
+38,2,1,North,1,3,1,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,Female,Basilar-type aura
+38,1,4,North,1,2,1,1,1,1,2,1,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+43,3,5,North,1,3,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,Migraine without aura
+20,3,5,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+20,3,5,South,0,0,0,0,1,1,4,1,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura without migraine
+38,1,5,North,1,3,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+35,2,1,North,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,,Typical aura with migraine
+33,2,5,North,1,2,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+21,2,1,North,1,2,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,,Typical aura with migraine
+46,1,5,North,1,2,1,0,1,1,2,0,0,0,0,,0,0,0,0,,0,0,Female,Typical aura with migraine
+37,2,1,North,1,2,1,0,1,1,2,,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+19,2,1,North,1,2,1,1,1,1,,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+26,1,1,North,1,3,1,0,1,1,,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+38,1,2,North,1,3,1,0,1,,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+38,1,5,North,1,3,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,Migraine without aura
+21,2,1,North,1,2,1,0,1,1,2,1,0,0,0,0,0,0,0,0,0,0,1,Female,Familial hemiplegic migraine
+24,2,2,North,1,2,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+22,3,5,North,1,3,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Migraine without aura
+30,1,1,West,2,3,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,Male,Other
+31,1,1,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,,0,0,0,0,Male,Typical aura with migraine
+31,1,2,North,1,2,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+40,1,1,North,1,3,1,0,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+26,3,2,North,1,3,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+54,2,1,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+39,1,1,North,1,3,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+23,1,1,South,0,0,1,1,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura without migraine
+33,1,2,North,1,3,1,0,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+28,1,5,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+31,2,2,North,1,3,1,0,1,1,0,1,0,0,1,0,1,0,0,0,0,0,0,Male,Basilar-type aura
+28,1,2,North,1,3,1,0,1,1,2,0,0,0,1,0,0,0,0,0,0,0,0,Female,Sporadic hemiplegic migraine
+19,1,1,North,1,3,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,Female,Familial hemiplegic migraine
+27,1,1,North,1,3,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+31,1,1,North,1,2,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+30,1,1,North,1,2,1,0,1,1,1,0,0,0,,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+25,2,2,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Male,Familial hemiplegic migraine
+22,1,1,North,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Migraine without aura
+30,1,3,North,1,3,1,1,1,,1,1,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+26,1,1,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,,0,0,0,1,Male,Typical aura with migraine
+35,1,1,North,1,3,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+22,2,1,North,1,1,1,0,1,1,3,0,0,0,1,1,0,0,0,0,0,0,0,Male,Sporadic hemiplegic migraine
+24,1,1,North,1,2,1,0,1,1,0,1,1,0,1,1,0,0,0,0,0,0,1,Female,Familial hemiplegic migraine
+20,1,2,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+19,3,1,,1,2,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+18,1,1,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+21,2,1,North,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Migraine without aura
+49,2,5,North,1,3,1,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+52,1,1,North,1,2,1,1,1,,2,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+34,1,1,,1,3,1,0,1,1,1,0,0,0,1,0,1,0,1,0,1,0,0,,Basilar-type aura
+20,2,2,North,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,Male,Familial hemiplegic migraine
+40,2,4,North,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,Migraine without aura
+17,1,6,North,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Migraine without aura
+70,3,5,North,1,3,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Migraine without aura
+41,3,2,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+22,2,2,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+21,1,5,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+32,1,1,North,1,2,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+48,1,2,North,1,2,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+35,1,1,North,1,3,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+18,2,2,North,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Migraine without aura
+34,1,1,North,1,3,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,Female,Other
+17,2,1,North,1,3,1,0,1,1,1,0,0,0,0,0,0,0,0,0,,0,1,Male,Familial hemiplegic migraine
+23,1,1,North,1,3,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+23,1,1,North,1,2,1,0,1,1,2,1,0,0,0,,0,0,0,0,,0,0,Female,Typical aura with migraine
+35,1,4,North,1,3,1,1,1,1,0,0,0,0,0,0,0,0,,0,0,0,1,Female,Migraine without aura
+27,1,1,North,1,3,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+19,1,2,North,1,2,1,0,1,,2,0,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+21,1,2,North,1,3,1,0,1,1,1,0,0,0,,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+33,1,1,North,1,2,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,,Typical aura with migraine
+20,3,5,North,1,3,1,0,1,1,1,,0,0,1,0,0,0,0,0,0,0,1,Female,Familial hemiplegic migraine
+29,1,2,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+18,2,5,North,1,2,1,0,1,1,1,,1,0,0,0,0,0,0,0,0,0,1,Male,Familial hemiplegic migraine
+28,3,2,,1,3,1,0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,1,Female,Basilar-type aura
+35,1,1,South,0,0,1,1,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura without migraine
+26,2,1,North,1,3,1,1,1,1,0,0,0,0,0,0,,,0,0,0,0,0,Female,Migraine without aura
+26,1,1,South,0,0,1,1,1,1,4,0,0,0,0,0,0,0,0,0,,0,1,Male,Typical aura without migraine
+21,1,2,North,1,2,1,0,1,1,1,2,0,0,1,0,0,0,0,0,0,0,1,Female,Familial hemiplegic migraine
+17,1,1,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+51,1,2,North,1,2,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+64,1,4,North,1,3,1,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+54,1,3,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+49,1,1,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+30,1,1,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+33,1,1,North,1,3,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+46,1,1,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+18,1,1,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+16,1,1,North,1,3,1,0,1,1,0,0,0,0,0,0,0,0,,0,0,0,0,Male,Migraine without aura
+24,1,1,North,1,3,1,0,1,1,0,0,1,0,1,1,0,0,0,0,0,0,1,Female,Familial hemiplegic migraine
+17,1,5,North,1,3,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Migraine without aura
+25,2,2,North,1,2,1,1,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+35,2,1,North,1,3,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Migraine without aura
+26,1,5,North,1,1,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+26,1,5,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+20,1,3,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+20,3,2,North,1,3,1,0,1,1,2,0,0,0,0,1,1,0,0,0,0,0,1,Female,Basilar-type aura
+49,2,2,West,2,3,1,1,1,1,2,0,,,0,0,0,0,0,0,0,0,1,,Other
+16,2,2,North,1,3,1,1,1,1,2,1,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+24,1,1,North,1,3,1,0,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+17,3,4,North,1,3,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Migraine without aura
+36,3,5,North,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Migraine without aura
+58,1,1,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+40,3,1,North,1,3,1,0,1,1,4,0,0,0,1,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+20,1,4,North,1,3,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+21,1,3,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+15,2,2,North,1,3,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+30,1,3,,1,3,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+38,3,1,North,1,3,1,0,1,1,4,0,0,0,1,0,0,0,1,0,0,0,1,Male,Basilar-type aura
+24,1,1,North,1,2,1,0,1,1,,2,1,0,1,1,0,0,0,0,0,0,0,Male,Sporadic hemiplegic migraine
+28,2,2,North,1,2,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+22,2,3,North,1,3,1,0,1,1,1,0,,,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+47,1,1,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+25,1,1,North,1,2,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+23,1,1,North,1,3,1,0,1,1,2,0,,,0,1,0,0,,0,1,0,1,Female,Familial hemiplegic migraine
+28,1,1,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+17,3,2,North,1,3,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,Migraine without aura
+59,1,1,North,1,3,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+44,1,2,North,1,2,1,0,1,1,2,1,0,0,0,,0,0,0,0,,0,0,Female,Typical aura with migraine
+17,1,5,North,1,3,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Migraine without aura
+52,1,2,North,1,2,1,0,1,1,3,2,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+19,1,1,North,1,2,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+18,2,1,North,1,3,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+23,1,1,North,1,3,1,0,1,1,1,0,0,0,1,1,0,0,0,0,0,0,1,Female,Familial hemiplegic migraine
+41,3,7,North,1,3,1,1,1,,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Migraine without aura
+31,1,1,North,1,2,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+30,3,1,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+35,1,5,,1,3,1,0,1,1,2,1,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+19,3,5,South,0,0,1,0,1,1,4,0,0,0,1,1,0,0,0,0,0,0,1,Female,Typical aura without migraine
+18,1,3,North,1,2,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+41,2,1,,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,,Typical aura with migraine
+24,1,1,South,0,0,1,1,1,1,4,,0,0,1,0,0,0,0,0,0,0,1,Female,Typical aura without migraine
+28,2,2,North,1,3,1,0,1,1,0,2,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+20,1,2,North,1,2,1,1,1,1,0,0,,,0,0,0,0,0,0,0,0,0,Female,Sporadic hemiplegic migraine
+22,2,7,North,1,3,1,1,1,1,0,,0,0,0,0,0,0,0,0,0,0,1,Male,Migraine without aura
+54,1,1,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+28,2,2,North,1,2,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+57,1,1,North,1,3,1,0,1,1,1,1,0,0,0,0,0,0,,0,0,0,0,Male,Typical aura with migraine
+17,3,1,North,1,2,1,0,1,1,2,1,1,0,0,0,,,0,0,0,0,1,Female,Familial hemiplegic migraine
+34,2,5,North,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Migraine without aura
+30,3,4,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+44,3,5,North,1,3,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Migraine without aura
+20,2,1,North,1,2,1,1,1,1,0,,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+44,2,1,,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+24,1,1,North,1,3,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,1,Male,Other
+39,2,1,North,1,2,1,1,1,1,2,2,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+48,1,2,North,1,3,1,1,1,1,3,1,0,0,1,0,0,0,1,0,0,1,0,Male,Basilar-type aura
+16,3,5,North,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,Migraine without aura
+35,3,2,North,1,3,1,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+36,2,5,North,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Migraine without aura
+51,3,1,North,1,3,0,0,1,1,0,1,0,0,1,1,0,0,0,0,0,0,1,Male,Other
+37,1,1,North,1,3,1,1,1,1,1,0,0,0,1,0,0,0,0,0,1,0,1,Male,Basilar-type aura
+44,1,1,North,1,3,1,1,1,1,,0,0,0,0,0,0,0,0,0,0,0,0,Female,Migraine without aura
+28,1,5,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+23,1,1,North,1,3,1,1,1,1,2,0,1,0,0,0,0,0,0,0,0,0,0,Male,Sporadic hemiplegic migraine
+35,1,3,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+17,2,5,North,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Female,Migraine without aura
+25,1,2,North,1,3,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Migraine without aura
+27,1,5,North,1,3,1,0,1,1,2,0,0,0,1,1,0,0,0,0,0,0,0,Male,Basilar-type aura
+21,1,1,North,1,3,1,1,1,1,2,0,1,0,0,0,0,0,0,0,0,0,0,Female,Sporadic hemiplegic migraine
+33,2,5,South,0,0,1,0,1,1,3,0,0,0,0,0,,,0,0,0,0,1,Male,Typical aura without migraine
+54,1,5,North,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Migraine without aura
+23,1,1,North,1,3,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Male,Familial hemiplegic migraine
+22,2,3,North,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Migraine without aura
+25,2,2,North,1,3,1,1,1,,2,1,0,0,0,0,0,0,0,0,0,0,0,Male,Sporadic hemiplegic migraine
+30,1,1,North,1,3,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+47,1,2,North,1,3,1,0,1,1,2,0,,,0,0,0,0,0,0,0,0,1,,Typical aura with migraine
+20,2,1,North,1,1,1,0,1,1,2,1,0,0,0,0,0,0,0,0,0,0,0,Male,Sporadic hemiplegic migraine
+68,2,3,North,1,3,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Migraine without aura
+16,1,2,North,1,2,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+23,1,1,South,0,0,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura without migraine
+45,1,2,North,1,2,1,0,1,,2,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+29,2,1,North,1,2,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+26,3,1,,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+26,1,4,North,1,3,1,1,1,1,1,,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+47,1,3,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+22,3,1,South,0,0,1,0,1,1,3,0,0,0,1,0,0,0,0,0,0,0,1,Female,Typical aura without migraine
+58,1,1,North,1,3,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+25,1,5,North,1,2,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+25,2,1,,1,2,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,,Typical aura with migraine
+20,2,1,North,1,2,1,0,1,1,2,2,1,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+37,2,1,,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+17,1,1,South,0,0,1,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura without migraine
+35,1,1,North,1,2,1,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+34,1,1,North,1,1,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+27,2,6,North,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Migraine without aura
+25,1,3,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+30,1,1,North,1,2,1,1,1,1,0,2,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+29,2,1,North,1,3,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+35,2,5,North,1,3,1,0,1,1,0,0,0,0,0,0,0,0,0,0,,0,0,Male,Migraine without aura
+25,1,1,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+35,3,5,North,1,2,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+17,3,6,North,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Migraine without aura
+29,1,1,North,1,3,1,0,1,1,2,0,0,0,0,,0,0,0,0,,0,0,Male,Typical aura with migraine
+20,2,2,North,1,1,1,0,1,1,2,0,1,0,0,1,0,0,0,0,0,0,0,Male,Sporadic hemiplegic migraine
+33,2,3,North,1,2,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+56,1,5,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+15,1,1,North,1,3,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+19,1,2,North,1,2,1,1,1,1,2,2,0,0,1,0,0,0,0,0,0,0,0,Male,Sporadic hemiplegic migraine
+44,1,1,North,1,3,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+17,1,1,,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+19,2,1,North,1,3,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+19,2,3,North,1,3,1,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,Female,Sporadic hemiplegic migraine
+50,1,1,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+22,1,1,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+45,3,5,North,1,3,1,0,1,1,2,2,0,0,1,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+28,2,1,North,1,2,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+27,2,1,North,1,3,1,0,1,1,2,2,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+31,1,1,North,1,2,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+43,1,1,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+21,2,2,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Male,Sporadic hemiplegic migraine
+20,2,4,North,1,2,1,0,1,,1,2,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+50,1,5,South,0,0,1,1,1,1,3,2,0,0,1,1,0,0,0,0,0,0,1,Female,Typical aura without migraine
+28,1,1,North,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Migraine without aura
+24,3,3,North,1,2,1,0,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+40,2,1,North,1,2,1,0,1,1,2,1,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+17,1,1,North,1,3,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,Female,Familial hemiplegic migraine
+37,1,1,North,1,2,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+45,1,3,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+22,3,2,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+28,2,2,North,1,3,1,0,1,1,0,1,1,0,0,,0,0,0,0,,0,0,Female,Typical aura with migraine
+21,2,1,North,1,2,1,0,1,1,0,0,,,0,0,0,0,,0,0,0,0,Female,Sporadic hemiplegic migraine
+53,3,5,North,1,3,1,0,1,1,2,,0,0,1,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+51,2,1,North,1,2,1,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+16,2,4,North,1,2,1,0,1,1,2,1,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+28,3,3,North,1,2,1,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+20,3,5,South,0,0,1,1,1,1,3,0,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura without migraine
+69,1,5,North,1,3,1,0,1,1,1,2,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+51,3,7,North,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Migraine without aura
+42,1,1,North,1,3,1,0,1,1,,0,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+24,1,1,North,1,2,1,0,1,1,2,1,0,0,1,1,1,0,0,0,0,0,1,Male,Basilar-type aura
+22,1,2,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+27,2,3,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Male,Familial hemiplegic migraine
+48,2,4,North,1,3,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,Migraine without aura
+30,1,5,North,1,2,1,0,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+25,2,1,North,1,2,1,0,1,1,2,0,1,0,1,0,0,0,0,0,0,0,1,Male,Familial hemiplegic migraine
+25,2,1,,1,2,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+24,1,1,South,0,0,1,0,1,1,,2,0,0,1,0,0,0,0,0,0,0,1,Male,Typical aura without migraine
+34,1,1,,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,,Typical aura with migraine
+45,1,1,North,1,2,1,0,1,1,3,,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+24,1,1,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+32,1,1,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,,0,0,0,1,Female,Typical aura with migraine
+53,3,1,West,2,3,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,Male,Other
+35,1,2,,0,0,1,0,1,1,4,2,0,0,0,1,0,0,0,0,0,0,0,Male,Typical aura without migraine
+23,2,1,North,1,2,1,1,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+22,1,3,North,1,2,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+24,1,4,North,1,3,1,1,1,1,0,0,0,0,0,0,0,0,,0,0,0,0,Male,Migraine without aura
+43,3,1,North,1,2,1,0,1,1,2,1,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+41,1,1,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+38,1,2,North,1,2,1,1,1,1,2,1,0,0,1,1,1,0,0,0,0,0,1,Male,Basilar-type aura
+35,2,2,North,1,3,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+26,2,3,North,1,3,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Male,Migraine without aura
+40,2,1,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+19,1,2,North,1,1,1,1,1,1,3,2,0,0,0,1,0,0,0,0,0,0,0,Male,Sporadic hemiplegic migraine
+49,1,1,North,1,3,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+16,2,4,North,1,2,1,0,1,1,2,0,0,0,,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+27,1,1,North,1,3,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+15,2,2,North,1,2,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+21,1,4,North,1,2,1,0,1,1,,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+22,1,3,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+17,1,1,North,1,3,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+42,1,5,North,1,3,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+27,2,3,North,1,3,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+27,2,1,North,1,3,1,0,1,1,1,,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+22,1,1,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+25,1,2,North,1,2,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+56,1,1,West,2,3,1,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Female,Other
+20,3,1,North,1,3,1,0,1,1,3,1,0,0,1,0,,,0,0,0,1,1,Male,Basilar-type aura
+56,1,1,North,1,3,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+43,2,5,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+53,2,1,North,1,2,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+29,1,2,North,1,3,1,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+18,2,1,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+29,1,3,North,1,3,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+19,2,3,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+23,1,1,,1,3,1,1,1,1,2,0,0,0,1,0,0,0,1,0,1,0,0,Male,Basilar-type aura
+25,2,1,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+39,1,1,North,1,3,1,1,1,1,1,1,0,0,1,0,0,1,0,0,0,0,1,Female,Basilar-type aura
+46,3,2,North,1,2,1,1,1,,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+30,1,1,North,1,3,1,1,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,Female,Other
+35,1,5,North,1,2,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+27,3,1,,1,3,1,0,1,1,1,0,0,0,1,0,0,0,0,0,0,1,1,Male,Basilar-type aura
+42,1,1,North,1,2,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+27,3,1,South,0,0,1,1,1,1,3,1,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura without migraine
+28,3,5,North,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Migraine without aura
+51,1,5,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+50,3,5,North,1,3,1,1,1,1,2,1,0,0,1,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+28,2,4,,1,3,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+16,1,1,North,1,2,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+47,1,5,North,2,3,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Male,Other
+26,2,1,North,1,3,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+17,1,3,North,1,3,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+49,2,2,,1,2,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+24,3,1,South,0,0,1,0,1,1,3,1,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura without migraine
+28,1,5,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+38,3,1,North,1,3,1,0,1,1,0,0,0,0,0,,0,0,0,0,0,0,0,Male,Migraine without aura
+25,1,2,North,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,Female,Familial hemiplegic migraine
+54,1,1,North,1,3,1,0,1,1,2,1,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+22,2,1,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+27,1,1,North,1,3,1,0,1,1,2,0,0,0,1,0,0,0,0,0,0,0,1,Female,Familial hemiplegic migraine
+49,1,4,North,1,2,1,0,1,1,2,1,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+22,3,1,North,1,2,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+49,1,1,North,1,3,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,Migraine without aura
+48,1,3,North,1,2,1,0,1,1,1,0,0,0,,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+43,3,5,North,1,2,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+31,1,7,North,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Female,Migraine without aura
+30,1,5,North,1,3,1,0,1,1,2,1,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+50,3,1,North,1,2,1,0,1,1,2,1,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+25,1,2,North,1,3,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Female,Familial hemiplegic migraine
+16,1,2,North,1,2,1,0,1,1,2,1,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+53,3,5,West,2,3,1,0,0,0,1,,0,0,1,0,0,0,0,0,0,0,1,Female,Other
+50,2,4,,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Migraine without aura
+55,1,1,North,1,2,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+29,1,1,North,1,3,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+53,1,1,North,1,2,1,0,1,1,4,0,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+26,3,1,North,1,3,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+34,2,1,North,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Male,Migraine without aura
+50,1,5,North,1,2,1,1,1,1,2,2,0,0,1,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+44,3,1,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,,0,0,0,1,Male,Typical aura with migraine
+17,2,2,North,1,3,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+16,1,4,North,1,3,1,0,1,1,2,1,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+32,2,1,North,1,3,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+29,1,1,North,1,3,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+34,1,2,North,1,2,1,1,1,1,2,0,0,0,0,0,,,0,0,0,0,0,Female,Typical aura with migraine
+19,1,2,North,1,2,1,0,1,1,1,0,0,0,0,,0,0,0,0,,0,0,Male,Typical aura with migraine
+43,2,1,North,1,2,1,0,1,1,3,0,,,0,0,0,0,0,0,0,0,1,Female,Typical aura with migraine
+22,3,1,North,1,3,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+20,3,2,North,1,3,1,0,1,1,2,0,0,0,1,1,0,0,0,0,0,0,1,Female,Basilar-type aura
+20,2,2,North,1,3,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
+27,1,5,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+28,1,1,North,1,3,1,1,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Male,Typical aura with migraine
+28,2,3,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+57,1,1,North,1,2,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,Male,Typical aura with migraine
+50,1,1,North,1,3,1,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,Female,Typical aura with migraine
